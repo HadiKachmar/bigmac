@@ -1,0 +1,11 @@
+Model Information:
+* title:	Big Mac
+* source:	https://sketchfab.com/3d-models/big-mac-7aeeaa237c6a48c39d0aeef7fc845ecb
+* author:	Aaron Theesfeld (https://sketchfab.com/theesfeld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Big Mac" (https://sketchfab.com/3d-models/big-mac-7aeeaa237c6a48c39d0aeef7fc845ecb) by Aaron Theesfeld (https://sketchfab.com/theesfeld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
